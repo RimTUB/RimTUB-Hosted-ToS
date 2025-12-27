@@ -1,7 +1,17 @@
 # GitHub Flavored Markdown (GFM) — полный тест
 
+<style>
 
-<div style="border-left:4px solid #3b82f6;padding:8px;">sfdsf
+  .info {
+    background-color: #3b82f6; padding:8px; border-radius: 8px;
+  }
+  body {
+    background-color: purple;
+  }
+  
+</style>
+
+<div class="info">sfdsf
 dsgf
 dfg
 <b>adsffda</b>
