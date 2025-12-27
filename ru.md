@@ -1,5 +1,15 @@
 # GitHub Flavored Markdown (GFM) — полный тест
 
+
+<div style="border-left:4px solid #3b82f6;padding:8px;">sfdsf
+dsgf
+dfg
+<b>adsffda</b>
+
+# sdfdsf
+
+</div>
+
 ## Текст
 Обычный текст  
 Перенос строки (2 пробела)
@@ -89,9 +99,12 @@ console.log("GFM");
 ## HTML (разрешён в GFM)
 
 <details>
+  
 <summary>Спойлер</summary>
 
+
 Markdown **работает** внутри.
+
 
 </details>
 
